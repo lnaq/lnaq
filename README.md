@@ -14,7 +14,7 @@
 ### Languages
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
-<img align="left" alt="php" width="100px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" />
+<img align="left" alt="php" width="50px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" />
 <img align="left" alt="java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
 
 [youtube]: https://www.youtube.com/channel/UC--8COgkC-AQTt6kUVRoosg
