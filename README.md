@@ -2,7 +2,7 @@
 
 - 🌊 Ireland
 - 🌟 Gaming & Music
-- 🎓 16 | High School - 4th year
+- 🎓 17 | High School - 4th year
 
 ### Socials
 
