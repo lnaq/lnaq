@@ -1,8 +1,8 @@
 ### About me
 
-- 🌊 Ireland
-- 🌟 Gaming & Music
-- 🎓 18 | High School - 6th year
+- 🌊
+- 🌟
+- 🎓
 
 <br />
 
